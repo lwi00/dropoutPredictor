@@ -40,7 +40,7 @@ The notebook contains the complete analysis pipeline:
 - Model training (Logistic Regression, Random Forest, XGBoost, LightGBM)
 - Model evaluation and comparison
 - Feature importance analysis
-- Interpretability (SHAP, LIME)
+- Interpretability
 - Fairness analysis
 
 ## Results
